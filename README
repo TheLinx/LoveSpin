@@ -1,0 +1,10 @@
+------------------------------------------------------------------------
+You need LÖVE (http://love2d.org/) to run this game.
+You can get binaries of this game at http://github.com/TheLinx/LoveSpin/downloads
+------------------------------------------------------------------------
+
+The goal of the game is to move the mouse cursor rapidly in circles in order to achieve an as high as possible SPM, spins per minute.
+
+Known Issues:
+- If the audio playback fails, so does the game. This is a LÖVE issue.
+- Awful programmer art for the UI.
