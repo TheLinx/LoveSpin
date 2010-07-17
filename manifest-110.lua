@@ -10,5 +10,6 @@ files = {
 }
 
 notes = [[
-Now uses UaLove back-end.
-]]
+Now uses UaLove back-end.]]
+
+tag = "1.1.0"

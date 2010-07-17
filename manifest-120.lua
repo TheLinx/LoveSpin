@@ -14,5 +14,6 @@ updated = {
 }
 
 notes = [[
-Updated to use UaLove's auto-update thingy
-]]
+Updated to use UaLove's auto-update thingy]]
+
+tag = "1.2.0"
