@@ -1,16 +1,16 @@
 files = {
-	"background.png",
-	"conf.lua",
-	"leekspin.ogg",
-	"main.lua",
-	"metre.png",
-	"padding.lua",
-	"spinner.png",
-	"ualove/init.lua"
+        ["background.png"],
+        ["conf.lua"],
+        ["leekspin.ogg"],
+        ["main.lua"],
+        ["metre.png"],
+        ["padding.lua"],
+        ["spinner.png"],
+        ["ualove/init.lua"]
 }
 
 updated = {
-	"main.lua"
+	["main.lua"]
 }
 
 notes = [[
