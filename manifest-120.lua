@@ -1,6 +1,5 @@
 files = {
         ["background.png"] = true,
-        ["conf.lua"] = true,
         ["leekspin.ogg"] = true,
         ["main.lua"] = true,
         ["metre.png"] = true,
@@ -13,7 +12,11 @@ updated = {
 	["main.lua"] = true
 }
 
+removed = {
+	["conf.lua"] = true
+}
+
 notes = [[
-Updated to use UaLove's auto-update thingy]]
+Updated to use LoveUpdate]]
 
 tag = "1.2.0"
