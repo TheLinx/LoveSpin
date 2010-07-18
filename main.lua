@@ -1,9 +1,13 @@
-require("ualove.init")
+-- LoveSpin
+-- http://github.com/thelinx/lovespin
+-- created by thelinx@unreliablepollution.net
+
 require("padding")
 
 -- INITIAL FUNCTIONS
 
 hook.add("initial", function ()
+	love.graphics.setMode(1024, 768)
 	love.graphics.print("Loading...", 500, 350)
 end, "bootchange")
 
