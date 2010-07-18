@@ -5,15 +5,15 @@ files = {
 	["metre.png"] = true,
 	["padding.lua"] = true,
 	["spinner.png"] = true,
-	["ualove/init.lua"] = true,
+	["ualove/init.lua"] = true
+}
 
-	updated = {
-		["main.lua"] = true
-	},
+updated = {
+	["main.lua"] = true
+}
 
-	removed = {
-		["conf.lua"] = true
-	}
+removed = {
+	["conf.lua"] = true
 }
 
 notes = [[
